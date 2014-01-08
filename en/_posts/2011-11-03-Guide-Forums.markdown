@@ -78,7 +78,7 @@ When posting anywhere in the forums, please ensure you don't violate its [Terms 
 ## Hosting code
 There are pretty much ways to host your code. There's [autohotkey.net](http://www.autohotkey.net), a site which offers free FTP hosting (just create an account there) and a Pastebin, but only for AutoHotkey-related content.
 
-More and more users also use [github](https://www.github.com), where you can host open source code for free (or closed-source for money), regardless of the coding language. Github is also used to [host this site](https://www.github.com/maul-esel/ahkbook/). Usage is a little more complicate, but you'll get used to it, and it has a lot of features.
+More and more users also use [github](https://www.github.com), where you can host open source code for free (or closed-source for money), regardless of the coding language. Github is also used to [host this site](https://www.github.com/ahkscript/ahkbook/). Usage is a little more complicate, but you'll get used to it, and it has a lot of features.
 
 Of course, you can also use any other hosting site, such as SkyDrive, Dropbox, or include the code directly in your forum posts. If doing so, please enclose the code in `[code] ; my code [/code]` tags. This also applies when posting in *"Support"*.
 

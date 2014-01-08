@@ -2,3 +2,7 @@
 *~
 /build/*
 !/build/*.sh
+ForcePull_Local.sh
+Gemfile.lock
+Gemfile
+.bundle/install.log
