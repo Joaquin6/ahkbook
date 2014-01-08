@@ -1,13 +1,13 @@
 # ahkbook - a book on AutoHotkey
 
-Information on this project can be found on its [start page](http://maul-esel.github.com/ahkbook/index.html) or in the [forum post](http://www.autohotkey.com/forum/viewtopic.php?t=78265).
+Information on this project can be found on its [projectinfo page](http://ahkscript.github.io/ahkbook/projectinfo.html) or in the [forum post](http://www.autohotkey.com/forum/viewtopic.php?t=78265).
 
 ## Contributing
-Please help me with this project. Add your posts, ideas, knowledge, experience to help AutoHotkey beginners, and to provide a reference for advanced users!
+Please help us with this project. Add your posts, ideas, knowledge, experience to help AutoHotkey beginners, and to provide a reference for advanced users!
 
 To contribute, do the following:
 
-* if you're on github: checkout [the wiki page](https://github.com/maul-esel/ahkbook/wiki/Contributing)
+* if you're on github: checkout [the wiki page](https://github.com/ahkscript/ahkbook/wiki/Contributing)
 
 * otherwise send me your comments, ideas, patches, ... via the AutoHotkey forums or PM me there.
 
@@ -20,7 +20,7 @@ In either way,
 * add yourself to the list of contributors with a website of your choice ;-)
 
 ## License
-This project and its contents are licensed under **Creative Commons BY-NC-SA 3.0**. See the [license](https://github.com/maul-esel/ahkbook/blob/gh-pages/license.md "license").
+This project and its contents are licensed under **Creative Commons BY-NC-SA 3.0**. See the [license](https://github.com/ahkscript/ahkbook/blob/gh-pages/license.md "license").
 
 ### Important note:
 This project is processed with [Jekyll](https://github.com/mojombo/jekyll#readme). Check it out before contributing.
