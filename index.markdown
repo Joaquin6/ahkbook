@@ -15,7 +15,7 @@ This project is intended to provide a collection of tutorials, scripts, technolo
 ## Contributing
 Please help me with this project! Add your own posts! Improve posts! Add ideas! Translate posts into your language!
 
-Check out the guidelines [here](https://github.com/maul-esel/ahkbook#readme).
+Check out the guidelines [here](https://github.com/ahkscript/ahkbook#readme).
 
 Everything, every minor or major improvement / addition / suggestion is welcome!
 
@@ -24,6 +24,7 @@ Everything, every minor or major improvement / addition / suggestion is welcome!
 * [Frankie](http://aboutscript.com/blog/)
 * [nimda](https://github.com/nimdahk)
 * [Uberi](http://www.autohotkey.net/~Uberi/)
+* [hoppfrosch](https://github.com/hoppfrosch)
 
 ## Available versions
 * [english](en/Introduction.html) - *work in progress!*
