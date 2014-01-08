@@ -1,6 +1,6 @@
 # ahkbook - a book on AutoHotkey
 
-The contents of this pages can be viewed on [ahkscript.github.io/ahkbook](http://ahkscript.github.io/ahkbook/index.html)
+The contents of the book can be viewed on [ahkscript.github.io/ahkbook](http://ahkscript.github.io/ahkbook/index.html)
 
 Information on this project can be found on its [projectinfo page](http://ahkscript.github.io/ahkbook/projectinfo.html) or in the [forum post](http://www.autohotkey.com/forum/viewtopic.php?t=78265).
 
