@@ -1,5 +1,7 @@
 # ahkbook - a book on AutoHotkey
 
+The contents of the book can be viewed on [ahkscript.github.io/ahkbook](http://ahkscript.github.io/ahkbook/index.html)
+
 Information on this project can be found on its [projectinfo page](http://ahkscript.github.io/ahkbook/projectinfo.html) or in the [forum post](http://www.autohotkey.com/forum/viewtopic.php?t=78265).
 
 ## Contributing
@@ -17,6 +19,7 @@ In either way,
 * author posts mentioned in the index (those in red)
 * improve and complete existing posts
 * translate posts in other languages (place them in a corresponding folder, such as `de/_posts` or `fr/_posts`).
+* pick an [issue](https://github.com/ahkscript/ahkbook/issues) - and try to resolve the issue
 * add yourself to the list of contributors with a website of your choice ;-)
 
 ## License
