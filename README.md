@@ -26,3 +26,6 @@ This project and its contents are licensed under **Creative Commons BY-NC-SA 3.0
 This project is processed with [Jekyll](https://github.com/mojombo/jekyll#readme). Check it out before contributing.
 This doesn't mean you need to install Jekyll, the contents are automatically processed on github. But if you install it, you have (of course) better control about what you push to your github repo.
 With Jekyll, you can write your posts in HTML, Markdown (like this file) or Textile.
+
+## Credits
+This project was initially created by [maul-esel](https://github.com/maul-esel/ahkbook) - many thanks for this!
