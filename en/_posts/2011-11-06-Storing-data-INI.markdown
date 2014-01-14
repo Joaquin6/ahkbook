@@ -6,9 +6,7 @@ permalink: /en/Storing-data-INI.html
 
 # Storing data: INI
 
-INI
-_________
-
+## INI
 An INI file is a in section seperated configuration file which allows you to store different data in one or more sections.
 
 The structure of an ini file is simple:
