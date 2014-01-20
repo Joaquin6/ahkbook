@@ -1,10 +1,10 @@
 ---
-title: Storing data: INI
+title: Storing data - INI
 layout: post
 permalink: /en/Storing-data-INI.html
 ---
 
-# Storing data: INI
+# Storing data - INI
 
 ## INI
 An INI file is a in section seperated configuration file which allows you to store different data in one or more sections.
